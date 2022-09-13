@@ -8,11 +8,4 @@ The algorithm accepts the Universal Protein Resource (UniProt, www.uniprot.org) 
 
 Warning! Protein_List.csv , Desired_Proteins_with_keywords_Part.xlsx documents have to be in the same folder. 
 
-The UniProt ID of each protein should be listed one after the other in a Protein_List.csv file. Example:
-Q9Z0X1
-Q9Z0X4
-Q9Z103
-Q9Z105
-.
-.
-.
+The UniProt ID of each protein should be listed one after the other in a Protein_List.csv file.
